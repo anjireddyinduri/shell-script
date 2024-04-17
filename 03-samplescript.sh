@@ -1,3 +1,3 @@
 #/bin/bas/
 This is sample file for script
-need to create more files
+this is third file creatdd for scripting purpose
