@@ -1,0 +1,7 @@
+#!/bin/bash/
+
+MOVIES=("RRR" "TJTILLU" "SALAR")
+
+echo "FIRST MOVIE IS: ${MOVIES[0]}
+echo "FIRST MOVIE IS: ${MOVIES[1]}
+echo "FIRST MOVIE IS: ${MOVIES[2]}
